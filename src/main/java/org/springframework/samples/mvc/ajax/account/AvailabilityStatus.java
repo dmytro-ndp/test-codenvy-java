@@ -1,5 +1,7 @@
 package org.springframework.samples.mvc.ajax.account;
 
+// 3
+
 public final class AvailabilityStatus {
 
 	public boolean isAvailable() {
